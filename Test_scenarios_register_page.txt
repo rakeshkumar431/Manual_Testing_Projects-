@@ -1,0 +1,23 @@
+
+
+Test scenarios for register page for open cart page 
+
+1. Register with valid gmail id 
+2. Register with invalid gmail id 
+3. Register with invalid gmail format
+4. Register with already registered mail id 
+5. register with already registered username 
+6. Try Register without entering password
+7. Try to register without clicking on puzzles
+8. try to register without entering any details 
+9. try to register by entering first name by entering  more than 32 characters
+10.try to register by entering lastname more than 32 characters 
+11.try to register  by entering password which is less than 3 characters
+12.try to register by entering password which is more than 32 characters 
+13. try to register by entering username only with numeric digits
+14. try to register by entering password only with numeric digits 
+13. try to register by entering username only with alphabets
+14. try to register by entering password only with alphabets
+15. try to register by entering username only with combination of characters
+16. try try to register by entering password only with combination of characters
+
